@@ -1,0 +1,9 @@
+https://www.vichaunter.org/como-se-hace/como-eliminar-la-barra-de-direcciones-de-chrome-en-android
+http://www.elwebmaster.com/general/ocultar-barra-navegacion-aplicaciones-web-mobile-javascript
+http://www.pesadillo.com/pesadillo/?p=8124
+https://davidwalsh.name/hide-address-bar
+
+
+--- Utilizacion Ngrok  en .Net ---
+
+https://stackoverflow.com/questions/30535336/exposing-localhost-to-the-internet-via-tunneling-using-ngrok-http-error-400?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
